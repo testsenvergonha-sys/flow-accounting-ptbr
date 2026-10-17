@@ -1,0 +1,18 @@
+# Backups
+*.bak
+*.tmp
+*.log
+
+# OS generated
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Temporary scripts
+temp_*
